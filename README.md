@@ -1,3 +1,3 @@
 # MyNextor
 
-In this project, I learned practiced my ability to use CSS Grid.
+In this project, I practiced my ability to use CSS Grid.
